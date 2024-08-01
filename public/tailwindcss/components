@@ -1,0 +1,9 @@
+/* Bileşen stil tanımlamaları */
+button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+}
+
+/* ... Diğer bileşen stil tanımlamaları ... */
